@@ -1,6 +1,6 @@
-# Coursera-Statistical-Inference-Project
+# Statistical-Inference-Project
 
-* Coursera Statistical Inference project has two parts,
+* This Statistical Inference project has two parts,
 * In part 1: Investigate the averages of 40 exponentials with a lambda = 0.2 for 1000 simulations approaches Normal Distribution, which validates Central Limit theorem.
 * Here lambda is a parameter for the exponential distribution.
 * Standard deviation = Mean = 1/lambda.
